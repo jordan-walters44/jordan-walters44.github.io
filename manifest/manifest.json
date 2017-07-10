@@ -1,7 +1,7 @@
 {
   "name": "Luddington",
   "short_name": "Luddington",
-  "start_url": ".",
+  "start_url": "https://jordan-walters44.github.io",
   "display": "standalone",
   "background_color": "#fff",
   "description": "A simple website to show you some of our favorite places.",
