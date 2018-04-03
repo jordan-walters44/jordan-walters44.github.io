@@ -175,7 +175,7 @@ var HomePage = /** @class */ (function () {
     };
     HomePage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'page-home',template:/*ion-inline-start:"C:\Users\Jordan Walters\Desktop\Angulary\iframe\src\pages\home\home.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>Home</ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n  <div>\n    <iframe src="http://www.sitepoint.com" style="width: 300px; height: 300px;" class="iframe" scrolling="yes"></iframe>\n  </div>\n\n</ion-content>'/*ion-inline-end:"C:\Users\Jordan Walters\Desktop\Angulary\iframe\src\pages\home\home.html"*/
+            selector: 'page-home',template:/*ion-inline-start:"C:\Users\Jordan Walters\Desktop\Angulary\iframe\src\pages\home\home.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>Home</ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n  <div>\n    <iframe src="https://fr.wikipedia.org/wiki/Main_Page" style="width: 300px; height: 300px;" class="iframe" scrolling="yes"></iframe>\n  </div>\n\n</ion-content>'/*ion-inline-end:"C:\Users\Jordan Walters\Desktop\Angulary\iframe\src\pages\home\home.html"*/
         }),
         __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* NavController */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* NavController */]) === "function" && _a || Object])
     ], HomePage);
